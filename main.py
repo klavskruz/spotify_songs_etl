@@ -8,8 +8,8 @@ import datetime
 import sqlite3
 
 DATABASE_LOCATION = "sqlite:///my_played_tracks.sqlite"
-USER_ID = "zw4o439fo8y1q0j08rg1ap4eo"
-TOKEN = "BQCOq2SAkH1WT5YZ-n4mXB4l-Nk4n8aXfzhK7ongWBwCgbkWKzlu_mb5pdHNvzO1IC2hl6SHIVcMuEzO2CfxA4fgRqcW0yH5ZBnQL0lh6TSRZhrriKymMbqDOU42SLSWuB83y_sOx8exQHLYwa7Y2p5ApgCrBR91Ki20uUee"
+USER_ID = "YOUR USERNAME HERE"
+TOKEN = "YOUR TOKEN HERE"
 
 
 
